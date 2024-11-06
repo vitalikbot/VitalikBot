@@ -1,8 +1,3 @@
----
-title: VitalikBot - Révélation sur la Sécurité de la Blockchain
-layout: default
----
-
 # VitalikBot : Révélation sur la Sécurité de la Blockchain 🚀🔒
 
 **VitalikBot** dévoile une réalité troublante sur les blockchains, réputées inviolables. Ce projet, unique et sans précédent, expose les failles potentielles des systèmes de génération d’adresses des géants de la crypto comme MetaMask, Coinbase et Binance.
