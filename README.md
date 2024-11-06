@@ -1,4 +1,4 @@
-![VitalikBot Panel](https://vitalikbot.com/src/assets/screencapture1.jpg)
+![VitalikBot Panel](https://vitalikbot.com/assets/screencapture1.jpg)
 
 # VitalikBot : Révélation sur la Sécurité de la Blockchain 🚀🔒
 
