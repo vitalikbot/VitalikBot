@@ -15,7 +15,7 @@ After years of blockchain research, **VitalikBot** was born: a powerful system t
 ## 🔗 Links and Documentation
 
 - 🌐 [Official VitalikBot Website](https://vitalikbot.com)
-- 📚 [Complete Technical Documentation](https://vitalikbot.com)
+- 📚 [Complete Technical Documentation](https://vitalikbot.com/doc)
 - 📝 [Proof of Concept](https://vitalikbot.com/proof-of-concept)
 
 ---
