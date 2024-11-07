@@ -1,27 +1,27 @@
-# VitalikBot : Révélation sur la Sécurité de la Blockchain 🚀🔒
+# VitalikBot: Blockchain Security Unveiled 🚀🔒
 
 ![VitalikBot Panel](https://vitalikbot.com/assets/screencapture1.jpg)
 
-**VitalikBot** dévoile une réalité troublante sur les blockchains, réputées inviolables. Ce projet, unique et sans précédent, expose les failles potentielles des systèmes de génération d’adresses des géants de la crypto comme MetaMask, Coinbase et Binance.
+**VitalikBot** reveals a troubling reality about blockchains, which are reputed to be unbreakable. This unique and unprecedented project exposes potential vulnerabilities in the address generation systems of crypto giants like MetaMask, Coinbase, and Binance.
 
-## 💡 Une Technologie Révolutionnaire
+## 💡 A Revolutionary Technology
 
-Après des années de recherche en blockchain, **VitalikBot** est né : un système puissant qui crée des patterns ciblés et s’adapte en continu pour maximiser les chances de succès. Grâce à une IA avancée, VitalikBot analyse des blocs d’adresses en temps réel, utilisant des modèles probabilistes et des algorithmes d’échantillonnage optimisés.
+After years of blockchain research, **VitalikBot** was born: a powerful system that creates targeted patterns and continuously adapts to maximize chances of success. Thanks to advanced AI, VitalikBot analyzes address blocks in real time, using probabilistic models and optimized sampling algorithms.
 
-⚠️ **Ce n’est plus une question de chance** : VitalikBot brise le mythe de l’invulnérabilité des wallets.
+⚠️ **This is no longer a game of chance**: VitalikBot shatters the myth of wallet invulnerability.
 
 ---
 
-## 🔗 Liens et Documentation
+## 🔗 Links and Documentation
 
-- 🌐 [Site officiel de VitalikBot](vitalikbot.com)
-- 📚 [Documentation technique complète](vitalikbot.com)
+- 🌐 [Official VitalikBot Website](https://vitalikbot.com)
+- 📚 [Complete Technical Documentation](https://vitalikbot.com)
 - 📝 [Proof of Concept](https://vitalikbot.com/proof-of-concept)
 
 ---
 
 ## 📬 Contact
 
-- 📱 **Telegram Groupe** : [@VitalikBot](#)
-- 📱 **Telegram Développeur** : [@Dave_Vitalik](#)
-- ✉️ **Email** : [vitalik_dev@proton.me](mailto:vitalik_dev@proton.me)
+- 📱 **Telegram Group**: [@VitalikBot](#)
+- 📱 **Telegram Developer**: [@Dave_Vitalik](#)
+- ✉️ **Email**: [vitalik_dev@proton.me](mailto:vitalik_dev@proton.me)
