@@ -4,9 +4,9 @@
 
 **VitalikBot** reveals a troubling reality about blockchains, which are reputed to be unbreakable. This unique and unprecedented project exposes potential vulnerabilities in the address generation systems of crypto giants like MetaMask, Coinbase, and Binance.
 
-## 💡 A Revolutionary Technology
+## 💡 Targetable Wallet
 
-After years of blockchain research, **VitalikBot** was born: a powerful system that creates targeted patterns and continuously adapts to maximize chances of success. Thanks to advanced AI, VitalikBot analyzes address blocks in real time, using probabilistic models and optimized sampling algorithms.
+After years of blockchain research, **VitalikBot** was born: a powerful system that creates targeted patterns and continuously adapts to maximize chances of success. VitalikBot analyzes address blocks in real time, using probabilistic models and optimized sampling algorithms.
 
 ⚠️ **This is no longer a game of chance**: VitalikBot shatters the myth of wallet invulnerability.
 
