@@ -22,6 +22,6 @@ After years of blockchain research, **VitalikBot** was born: a powerful system t
 
 ## 📬 Contact
 
-- 📱 **Telegram Group**: [@VitalikBot](#)
+- 📱 **Telegram Channel**: [@VitalikBot_exploit](#)
 - 📱 **Telegram Developer**: [@Dave_Vitalik](#)
 - ✉️ **Email**: [vitalik_dev@proton.me](mailto:vitalik_dev@proton.me)
