@@ -2,7 +2,7 @@
 
 ![VitalikBot Panel](https://vitalikbot.com/assets/screencapture1.jpg)
 
-**VitalikBot** reveals a troubling reality about blockchains, which are reputed to be unbreakable. This unique and unprecedented project exposes potential vulnerabilities in the address generation systems of crypto giants like MetaMask, Coinbase, and Binance.
+**VitalikBot** reveals a troubling reality about blockchains, which are reputed to be unbreakable. This unique and unprecedented project exposes vulnerabilities in the address generation systems of crypto giants like MetaMask, Coinbase, and Binance.
 
 ## 💡 Targetable Wallet
 
